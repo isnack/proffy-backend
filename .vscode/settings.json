@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "nlw",
+            "username": "postgres",
+            "password": "docker",
+            "database": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "proffy",
+            "username": "postgres",
+            "password": "docker",
+            "name": "nlw2"
+        }
+    ]
+}
